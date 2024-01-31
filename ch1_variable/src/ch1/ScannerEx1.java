@@ -10,5 +10,6 @@ public class ScannerEx1 {
     System.out.print("숫자 입력 ");
     int num = sc.nextInt();
     System.out.printf("입력한 숫자 %d", num);
+    sc.close();
   }
 }

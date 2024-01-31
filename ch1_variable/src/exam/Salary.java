@@ -13,5 +13,6 @@ public class Salary {
     // 10년 저축 금액
     int deposit = salary * 12 * 10;
     System.out.println("10년 저축 금액 " + deposit);
+    sc.close();
   }
 }

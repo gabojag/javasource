@@ -43,5 +43,6 @@ public class PromotionEx1 {
     byte v2 = 15;
     // byte byteValue = v1 + v2; => 정수를 변수에 담는다면 int 사용
     int byteValue = v1 + v2;
+    System.out.println(byteValue);
   }
 }

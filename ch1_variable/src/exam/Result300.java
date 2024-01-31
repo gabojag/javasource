@@ -18,6 +18,6 @@ public class Result300 {
     int num2 = 333;
     // num2의 값 중에서 일의 자리를 1로 바꾸는 프로그램 작성
     // 예를 들어 num의 값이 333 이라면 331 이 되고, 777 이라면 771이 된다
-    System.out.println(num2 / 10 * );
+    System.out.println(num2 / 10 * 10 + 1);
   }
 }

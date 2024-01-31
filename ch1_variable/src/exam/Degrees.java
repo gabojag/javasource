@@ -13,5 +13,6 @@ public class Degrees {
 
     double cels = (f - 32) * 5 / 9.0;
     System.out.println("변환된 섭씨 온도 : " + cels);
+    sc.close();
   }
 }
