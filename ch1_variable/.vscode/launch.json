@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "CastingEx1",
+            "request": "launch",
+            "mainClass": "ch1.CastingEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "ch1.Hello",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "Hello2",
+            "request": "launch",
+            "mainClass": "ch1.Hello2",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "PrintEx1",
+            "request": "launch",
+            "mainClass": "ch1.PrintEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "PromotionEx1",
+            "request": "launch",
+            "mainClass": "ch1.PromotionEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "ScannerEx1",
+            "request": "launch",
+            "mainClass": "ch1.ScannerEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "SpecialChar",
+            "request": "launch",
+            "mainClass": "ch1.SpecialChar",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "VarBoolEx1",
+            "request": "launch",
+            "mainClass": "ch1.VarBoolEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "VarByteEx1",
+            "request": "launch",
+            "mainClass": "ch1.VarByteEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "VarCharEx1",
+            "request": "launch",
+            "mainClass": "ch1.VarCharEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "VarFloatEx1",
+            "request": "launch",
+            "mainClass": "ch1.VarFloatEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "VarScopeEx1",
+            "request": "launch",
+            "mainClass": "ch1.VarScopeEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "exam.Area",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "Degrees",
+            "request": "launch",
+            "mainClass": "exam.Degrees",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "Pencil",
+            "request": "launch",
+            "mainClass": "exam.Pencil",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "Result300",
+            "request": "launch",
+            "mainClass": "exam.Result300",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "Salary",
+            "request": "launch",
+            "mainClass": "exam.Salary",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticEx1",
+            "request": "launch",
+            "mainClass": "operator.ArithmeticEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticEx2",
+            "request": "launch",
+            "mainClass": "operator.ArithmeticEx2",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "DenyLogicEx1",
+            "request": "launch",
+            "mainClass": "operator.DenyLogicEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "IncDecEx1",
+            "request": "launch",
+            "mainClass": "operator.IncDecEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "IncDecEx2",
+            "request": "launch",
+            "mainClass": "operator.IncDecEx2",
+            "projectName": "ch1_variable_5dc30bc5"
+        },
+        {
+            "type": "java",
+            "name": "SignOpEx1",
+            "request": "launch",
+            "mainClass": "operator.SignOpEx1",
+            "projectName": "ch1_variable_5dc30bc5"
+        }
+    ]
+}
