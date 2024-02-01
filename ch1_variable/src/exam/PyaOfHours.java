@@ -20,5 +20,6 @@ public class PyaOfHours {
       pay = hours * rate;
     }
     System.out.println("오늘 받는 임금은 " + pay);
+    sc.close();
   }
 }

@@ -17,5 +17,6 @@ public class LeapYear {
     } else {
       System.out.println("평년");
     }
+    sc.close();
   }
 }

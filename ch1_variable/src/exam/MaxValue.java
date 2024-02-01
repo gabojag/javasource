@@ -37,5 +37,6 @@ public class MaxValue {
     }
 
     System.out.println("세 수 중 가장 작은 수" + min);
+    sc.close();
   }
 }
