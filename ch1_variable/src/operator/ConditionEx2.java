@@ -29,5 +29,6 @@ public class ConditionEx2 {
       ch1 >= 1 &&
       ch1 <= 9;
     System.out.println(result);
+    sc.close();
   }
 }

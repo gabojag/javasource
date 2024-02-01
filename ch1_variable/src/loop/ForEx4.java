@@ -19,9 +19,9 @@ public class ForEx4 {
     // 7) j < 11
     // 8) System.out.print("*");
     // 9) j++
-    // ........
+    //  .....
     // 10) j == 11 안쪽 for 문 종료
-    // 11) System.out.print();
+    // 11) System.out.println();
     // 12) 바깥쪽 for i++
     // 13) i < 6
     // 14) 안쪽 for 10번 수행
