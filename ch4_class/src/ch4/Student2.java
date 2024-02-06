@@ -7,7 +7,7 @@ public class Student2 {
   private String id; //학번 저장
   private String name;
   private String addr;
-  private String hp;
+  private int hp;
 
   // 멤버메소드(= 인스턴스메소드)
   // 속성을 변경시킬 수 있도록 메소드 작성
@@ -54,5 +54,37 @@ public class Student2 {
       hp +
       "]"
     );
+  }
+
+  public String getId() {
+    return id;
+  }
+
+  public void setId(String id) {
+    this.id = id;
+  }
+
+  public String getName() {
+    return name;
+  }
+
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public String getAddr() {
+    return addr;
+  }
+
+  public void setAddr(String addr) {
+    this.addr = addr;
+  }
+
+  public int getHp() {
+    return hp;
+  }
+
+  public void setHp(int i) {
+    this.hp = i;
   }
 }

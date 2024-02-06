@@ -13,4 +13,12 @@ public class Triangle {
     this.baseLine = baseLine;
     this.height = height;
   }
+
+  // 메소드 getArea()
+  // 밑변 * 높이 / 2
+  // double getArea int 밑변 * 높이 / 2
+  double getArea() {
+    // 밑변 * 높이 / 2
+    return baseLine * (double) height / 2;
+  }
 }
