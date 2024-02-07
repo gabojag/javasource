@@ -7,7 +7,7 @@ public class Student2 {
   private String id; //학번 저장
   private String name;
   private String addr;
-  private int hp;
+  private String hp;
 
   // 멤버메소드(= 인스턴스메소드)
   // 속성을 변경시킬 수 있도록 메소드 작성
